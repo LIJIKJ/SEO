@@ -8,9 +8,12 @@
 <ul><b> Browser Compatability Test </b> <br/>
 <li>http://browsershots.org/ </li><br/>
   </ul>
-  <ul><b> Keyword Research </b><br/>
-  1. https://answerthepublic.com <br/>
-  2. https://neilpatel.com/ubersuggest/ <br/> </ul>
+  
+  <b> Keyword Research </b><br/>
+  1. [Answer the public](https://answerthepublic.com) <br/>
+  2. [Uber suggest](https://neilpatel.com/ubersuggest/) <br/> 
+  3. [Soolve](http://www.soovle.com/) <br/>
+  
 <ul><b>Code Generator</b><br/>
   <li>https://webcode.tools/ - For Meta tags,OG property, twitter cards, structured data etc code generation <br/></li>
   </ul>
@@ -18,6 +21,7 @@
   <li> https://lsigraph.com/ </li><br/>
 </ul> 
  <ul><b> Structured Data Testing Tool </b></br>
+ 
   <li>https://search.google.com/structured-data/testing-tool</li><br/>
   </ul>
   <ul><b> Page Speed </b><br/>
