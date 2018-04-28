@@ -33,6 +33,6 @@
 <li> https://supple.com.au/tools/google-review-link-generator/ </li>
   </ul>
   
-  <ul><b> Youtube</b><br/>
-  <li>https://chrome.google.com/webstore/detail/vidlog/pmnenkkakioojceckmokdmkdjmkfiafo - Keyword and analytics of a YouTube channel</li><br/>
-  </ul>
+<b> Youtube</b><br/>
+ [Keywords and Analytics](https://chrome.google.com/webstore/detail/vidlog/pmnenkkakioojceckmokdmkdjmkfiafo)- Chrome plugin
+
