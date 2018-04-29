@@ -6,25 +6,25 @@
 1. [Is My Website Penalized](https://ismywebsitepenalized.com/) <br/>
 2. [Google Transparency report](https://transparencyreport.google.com/) <br/>
   
-<ul><b> Browser Compatability Test </b> <br/>
-<li>http://browsershots.org/ </li><br/>
-  </ul>
+<b> Browser Compatability Test </b> <br/>
+1. [Browser Shots](http://browsershots.org/) <br/>
+ 
   
   <b> Keyword Research </b><br/>
   1. [Answer the public](https://answerthepublic.com) <br/>
   2. [Uber suggest](https://neilpatel.com/ubersuggest/) <br/> 
   3. [Soolve](http://www.soovle.com/) <br/>
   
-<ul><b>Code Generator</b><br/>
-  <li>https://webcode.tools/ - For Meta tags,OG property, twitter cards, structured data etc code generation <br/></li>
-  </ul>
- <ul><b> LSI Keyword Generator</b><br/>  
-  <li> https://lsigraph.com/ </li><br/>
-</ul> 
- <ul><b> Structured Data Testing Tool </b></br>
+<b>Code Generator</b><br/>
+  1.[Webcode Tools](https://webcode.tools/) - For Meta tags,OG property, twitter cards, structured data etc code generation <br/></li>
+
+ <b> LSI Keyword Generator</b><br/>  
+  1. [LSI Graph](https://lsigraph.com/) </li><br/>
+
+<b> Structured Data Testing Tool </b></br>
  
-  <li>https://search.google.com/structured-data/testing-tool</li><br/>
-  </ul>
+ 1. [Google Structured Data Testing](https://search.google.com/structured-data/testing-tool)<br/>
+
   
   <b> Page Speed </b><br/>
   1. [Page Speed Insights](https://developers.google.com/speed/pagespeed/insights/) <br/>
@@ -32,14 +32,14 @@
   
 
   
-  Tools by Google
-  https://developers.google.com/search/tools/
+  [Tools by Google](https://developers.google.com/search/tools/) <br/>
   
   
   <h3> Off Page and Marketing Tools and Websites</h3>
- <ul><b> Google Business Review Direct Link Generator</b> <br/>
-<li> https://supple.com.au/tools/google-review-link-generator/ </li>
-  </ul>
+ 
+ <b> Google My Business</b> <br/>
+1. [Google Business Review Direct Link Generator](https://supple.com.au/tools/google-review-link-generator/)<br/>
+
   
 <b> Youtube</b><br/>
  [Keywords and Analytics](https://chrome.google.com/webstore/detail/vidlog/pmnenkkakioojceckmokdmkdjmkfiafo)- Chrome plugin
