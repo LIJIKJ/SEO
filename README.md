@@ -1,10 +1,11 @@
 "# SEO" 
 # SEO
 <h3> On Page SEO Helpful Tools and Website </h3>
-<ul><b>Domain Blacklist Check  </b> <br/>
-1.https://ismywebsitepenalized.com/ <br/>
-2.https://transparencyreport.google.com/ <br/>
-  </ul>
+
+<b>Domain Blacklist Check  </b> <br/>
+1. [Is My Website Penalized](https://ismywebsitepenalized.com/) <br/>
+2. [Google Transparency report](https://transparencyreport.google.com/) <br/>
+  
 <ul><b> Browser Compatability Test </b> <br/>
 <li>http://browsershots.org/ </li><br/>
   </ul>
@@ -24,9 +25,12 @@
  
   <li>https://search.google.com/structured-data/testing-tool</li><br/>
   </ul>
-  <ul><b> Page Speed </b><br/>
-  <li>https://developers.google.com/speed/pagespeed/insights/ </li><br/>
-  </ul>
+  
+  <b> Page Speed </b><br/>
+  1. [Page Speed Insights](https://developers.google.com/speed/pagespeed/insights/) <br/>
+  2. [Webpage Test](http://www.webpagetest.org/video/)- Create videos comparing site speed against competitors <br/>
+  
+
   
   Tools by Google
   https://developers.google.com/search/tools/
