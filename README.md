@@ -6,6 +6,9 @@
 1. [Is My Website Penalized](https://ismywebsitepenalized.com/) <br/>
 2. [Google Transparency report](https://transparencyreport.google.com/) <br/>
   
+<b>Domain and Page Authority </b><br/>
+1. [Moz Bar](https://chrome.google.com/webstore/detail/mozbar/eakacpaijcpapndcfffdgphdiccmpknp)<br/>
+
 <b> Browser Compatability Test </b> <br/>
 1. [Browser Shots](http://browsershots.org/) <br/>
  
@@ -16,13 +19,12 @@
   3. [Soolve](http://www.soovle.com/) <br/>
   
 <b>Code Generator</b><br/>
-  1.[Webcode Tools](https://webcode.tools/) - For Meta tags,OG property, twitter cards, structured data etc code generation <br/></li>
+  1. [Webcode Tools](https://webcode.tools/) - For Meta tags,OG property, twitter cards, structured data etc code generation <br/>
 
  <b> LSI Keyword Generator</b><br/>  
-  1. [LSI Graph](https://lsigraph.com/) </li><br/>
+  1. [LSI Graph](https://lsigraph.com/) <br/>
 
 <b> Structured Data Testing Tool </b></br>
- 
  1. [Google Structured Data Testing](https://search.google.com/structured-data/testing-tool)<br/>
 
   
@@ -42,5 +44,5 @@
 
   
 <b> Youtube</b><br/>
- [Keywords and Analytics](https://chrome.google.com/webstore/detail/vidlog/pmnenkkakioojceckmokdmkdjmkfiafo)- Chrome plugin
+1. [Keywords and Analytics](https://chrome.google.com/webstore/detail/vidlog/pmnenkkakioojceckmokdmkdjmkfiafo)- Chrome plugin
 
