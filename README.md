@@ -11,6 +11,7 @@
 
 <b> Browser Compatability Test </b> <br/>
 1. [Browser Shots](http://browsershots.org/) <br/>
+2. [User Agent Switcher](https://chrome.google.com/webstore/detail/user-agent-switcher-for-c/djflhoibgkdhkhhcedjiklpkjnoahfmg)-Chrome Plugin <br/>
  
   
   <b> Keyword Research </b><br/>
