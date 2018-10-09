@@ -32,6 +32,7 @@
   <b> Page Speed </b><br/>
   1. [Page Speed Insights](https://developers.google.com/speed/pagespeed/insights/) <br/>
   2. [Webpage Test](http://www.webpagetest.org/video/)- Create videos comparing site speed against competitors <br/>
+  3. [Batch Webpage Test] (http://batchspeed.com/test/) - Check page speed of multiple pages simlutaneously 
   
 
   
