@@ -20,7 +20,9 @@
   3. [Soolve](http://www.soovle.com/) <br/>
   
   <b>Keyword Density Check</b><br/>
-  1.[Check KW of url](https://www.addme.com/keyword-density.htm)<br/>
+  1.[Check KW using url](https://www.addme.com/keyword-density.htm)<br/>
+  2. [Check KW density of content](http://www.live-keyword-analysis.com/)<br/>
+  
 <b>Code Generator</b><br/>
   1. [Webcode Tools](https://webcode.tools/) - For Meta tags,OG property, twitter cards, structured data etc code generation <br/>
 
