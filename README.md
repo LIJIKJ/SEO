@@ -19,6 +19,8 @@
   2. [Uber suggest](https://neilpatel.com/ubersuggest/) <br/> 
   3. [Soolve](http://www.soovle.com/) <br/>
   
+  <b>Keyword Density Check</b><br/>
+  1.[Check KW of url](https://www.addme.com/keyword-density.htm)<br/>
 <b>Code Generator</b><br/>
   1. [Webcode Tools](https://webcode.tools/) - For Meta tags,OG property, twitter cards, structured data etc code generation <br/>
 
