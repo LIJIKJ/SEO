@@ -52,3 +52,6 @@
 <b> Youtube</b><br/>
 1. [Keywords and Analytics](https://chrome.google.com/webstore/detail/vidlog/pmnenkkakioojceckmokdmkdjmkfiafo)- Chrome plugin
 
+<b> International SEO</b>
+1. [hreflang generator](https://www.aleydasolis.com/english/international-seo-tools/hreflang-tags-generator/)<br/>
+
